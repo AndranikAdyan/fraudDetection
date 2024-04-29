@@ -67,6 +67,7 @@ The dataset used in this project can be downloaded from [Kaggle](https://www.kag
 
 - **Evaluation**:
   - The accuracy of the model is evaluated using `accuracy_score`.
+  - **Accuracy Score**: The model achieved an accuracy score of 0.99 on the test dataset.
 
 - **Visualization**:
   - A pie chart displays the ratio of fraudulent vs. non-fraudulent transactions in the dataset.
