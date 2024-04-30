@@ -49,10 +49,11 @@ The dataset used in this project can be downloaded from [Kaggle](https://www.kag
    ```bash
    jupyter notebook
    ```
+2. Download the dataset and move it to the folder with the file `fraudDetection.ipynb`
 
-2. Open the `fraudDetection.ipynb` notebook in your browser.
+3. Open the `fraudDetection.ipynb` notebook in your browser.
 
-3. Run each cell in the notebook sequentially to execute the code blocks.
+4. Run each cell in the notebook sequentially to execute the code blocks.
 
 ## Description
 
